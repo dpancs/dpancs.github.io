@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dpancs.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dpancs.github.io/static/js/main.9498a1ee.chunk.js",
+    "main.js.map": "/dpancs.github.io/static/js/main.9498a1ee.chunk.js.map",
+    "runtime-main.js": "/dpancs.github.io/static/js/runtime-main.bd9aa390.js",
+    "runtime-main.js.map": "/dpancs.github.io/static/js/runtime-main.bd9aa390.js.map",
+    "static/js/2.54244449.chunk.js": "/dpancs.github.io/static/js/2.54244449.chunk.js",
+    "static/js/2.54244449.chunk.js.map": "/dpancs.github.io/static/js/2.54244449.chunk.js.map",
+    "index.html": "/dpancs.github.io/index.html",
+    "precache-manifest.aecddb365ea37879fcdffeb8734b34bc.js": "/dpancs.github.io/precache-manifest.aecddb365ea37879fcdffeb8734b34bc.js",
+    "service-worker.js": "/dpancs.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dpancs.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.54244449.chunk.js.LICENSE.txt": "/dpancs.github.io/static/js/2.54244449.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dpancs.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd9aa390.js",
+    "static/js/2.54244449.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9498a1ee.chunk.js"
+  ]
+}
